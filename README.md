@@ -1,5 +1,5 @@
 # signal-clone-237
-cloning the signal app with react native ad firebase
+cloning the signal app with react native and firebase
 
 ![](Images/signal1.jpg)
 ![](Images/signal2.jpg)
